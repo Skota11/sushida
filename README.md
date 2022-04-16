@@ -5,5 +5,5 @@
 ・PyOCR
 ・Pyautogui
 ### インストールしなければならないもの
-・tesseract
-#　部活の研究発表会用
+・tesseract<br><br>
+# 部活の研究発表用のコードです。
